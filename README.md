@@ -1,6 +1,3 @@
-# Chatbot
-AI Based Chatbot
-
 ### Requirements
     Python >= 2.7
     Flask >= 0.10
@@ -28,10 +25,6 @@ AI Based Chatbot
 ```bash
 pip install -r requirements.txt
 ```
-
-## Screenshot
-![chatbot](https://cloud.githubusercontent.com/assets/1708683/16739482/28ee111e-47bc-11e6-93d4-f9a8f5c9a3a2.png)
-
 ## Chat UI Code from
 
 https://github.com/sohelamin/chatbot
