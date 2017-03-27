@@ -6,7 +6,7 @@
 
 1. Clone and navigate to chatbot directory.
 
-2. Install **Flask** framework and **AIML** module.
+2. Install modules.
     ```bash
     pip install Flask
     pip install Google-Search-API
